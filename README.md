@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MartheHilde
 - 👀 I’m interested in front and backend development, html, css and javascript and libraries.
-- 🌱 I’m currently learning JavaScript and studying to become a backend developer.
-- 🫶🏻 Part of "Jentekoderne" - Intensive front-end course.
+- 🌱 I’m currently learning JavaScript, NodeJs and studying to become a backend developer.
+- 🫶🏻 Jentekoderne
 - 🇰🇷 한국어, English and Norwegian
 - 💞️ I’m looking to collaborate on apps, websites, databases and other projects.
 - 📫 How to reach me:
